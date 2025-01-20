@@ -1,2 +1,2 @@
 # Snake Game
-It is pet WinForms application to have a fun
+It is a pet WinForms application to have a fun
