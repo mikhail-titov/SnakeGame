@@ -1,2 +1,2 @@
 # snake-game
-It is pet application to have a fun
+It is pet WinForms application to have a fun
